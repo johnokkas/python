@@ -1,7 +1,0 @@
-print(6 + 5 ==11)
-print(3 + 7!=11)
-print(4%2>=5/4)
-print(7-8<=1)
-print("ab"<"cd")
-print("abc"<"abcd")
-print("abc"<"ABC")
