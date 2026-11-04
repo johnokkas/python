@@ -1,0 +1,11 @@
+x="metrisi!"
+print(len(x))
+pleiada=("metrisi","arithmou","lexeon")
+print(len(pleiada))
+lexiko={
+    "ratsa":"lykoskylo",
+    "xroma":"kafe",
+    "onoma":"rocky",
+    "ilikia":5
+}
+print(len(lexiko))
